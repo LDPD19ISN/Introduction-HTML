@@ -1,0 +1,12 @@
+<!doctype html>
+<head>
+<title> Mon site </title>
+</head>
+<body>
+<font color="purple" style="font-size:16px;" face="Consolas">Consolas violet</font>
+<br>
+<font color="orange" style="font-size:28px;" face="Comic Sans Ms">Comic Sans Ms orange</font>
+<br>
+<img src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1555389548">
+<br>
+</body>
