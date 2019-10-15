@@ -1,0 +1,4 @@
+m = float(input())
+g = 9.8
+p = m * g
+print(p)
